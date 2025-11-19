@@ -1,2 +1,2 @@
 # Pantanal
-A set of codes for determining TTR and EWS in the Pantanal from 1987 to 2021, using Landsat and Vodca time series.
+A set of scripts to compute vegetation time-to-recovery (TTR) and early-warning signals (EWS) in the Pantanal (1987–2021), using Landsat optical indices and VODCA vegetation optical depth time series.
